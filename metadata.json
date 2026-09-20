@@ -1,0 +1,6 @@
+{
+  "name": "Smart Neighbour",
+  "description": "A private community platform for apartment and housing society residents to share resources, report safety concerns, organize events, and build trust.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
